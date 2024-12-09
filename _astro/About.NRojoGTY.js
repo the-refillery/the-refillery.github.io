@@ -1,0 +1,1 @@
+import"./legacy.BSAxfSQt.js";import{a,t as p}from"./template.BbIDgr6J.js";/* empty css                       */var e=p('<div class="page svelte-wlheko"><p>coming soon</p></div>');function m(o){var t=e();a(o,t)}export{m as default};

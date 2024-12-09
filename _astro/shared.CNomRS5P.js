@@ -1,0 +1,1 @@
+import{av as c,a5 as r,a6 as i,O as v,A as s}from"./template.BbIDgr6J.js";function u(t,a,e,o=!0){o&&e();for(var f of a)t.addEventListener(f,e);c(()=>{for(var n of a)t.removeEventListener(n,e)})}function l(t){var a=v,e=s;r(null),i(null);try{return t()}finally{r(a),i(e)}}export{u as l,l as w};
